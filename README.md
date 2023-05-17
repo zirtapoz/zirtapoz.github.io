@@ -12,3 +12,16 @@
 
 
 ## Emphasis 
+
+
+__This is bold text__
+
+## Blockquotes
+
+
+> Blockquotes can also be nested.. 
+>>...by using additional greater-than sisgns right net to each other.. 
+>>..or with spaces between arrows 
+
+
+## Lists
