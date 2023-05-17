@@ -24,44 +24,16 @@ __This is bold text__
 >>..or with spaces between arrows 
 
 
-## Lists
-body {
-font-family: Arial, sans-serif;
-margin: 0;
-padding: 0;
-}
+## Listsbody {font-family: Arial, sans-serif;margin: 0;padding: 0;}
 
-header {
-background-color: #333;
-color: white;
-padding: 20px;
-}
+header {background-color: #333; color: blue ;padding: 20px;}
 
-nav ul {
-list-style: none;
-margin: 0;
-padding: 0;
-}
+nav ul {list-style: none;margin: 0;padding: 0;}
 
-nav li {
-display: inline-block;
-margin: 0 10px;
-}
+nav li {display: inline-block;margin: 0 10px;}
 
-nav a {
-color: white;
-text-decoration: none;
-}
+nav a {color: white;text-decoration: none;}
 
-main {
-width: 70%;
-margin: 0 auto;
-padding: 20px;
-}
+main {width: 70%;margin: 0 auto;padding: 20px;}
 
-footer {
-background-color: #333;
-color: white;
-text-align: center;
-padding: 20px;
-}
+footer {background-color: #333; color: white;text-align: center;padding: 20px;}
